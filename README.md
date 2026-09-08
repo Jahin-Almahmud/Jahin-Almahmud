@@ -56,24 +56,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jahin-Almahmud&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jahin's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahin-Almahmud&theme=tokyonight&hide_border=true" alt="Jahin's GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahin-Almahmud&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Jahin-Almahmud&theme=tokyonight&no-frame=true&row=1&column=7" alt="Jahin's Trophy"/>
-  </a>
-</p>
-
----
 
 ### ⚡️ Connect with Me
 
